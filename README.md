@@ -9,13 +9,11 @@ In colonoscopy, the captured images are usually with low-quality appearance, suc
 
 ![image](https://user-images.githubusercontent.com/72659127/232368226-ca6c329b-3b05-46fc-b553-378b54fc8886.png)
 
-<img src="https://user-images.githubusercontent.com/72659127/232368264-a1b8dc1e-5887-4c3d-8549-b66a9f5779d6.png" width="500" />
 
-<img src="https://user-images.githubusercontent.com/72659127/232368277-da12c722-4866-40f3-9e7c-58a1130720df.png" width="500" />
 
 <img src="https://user-images.githubusercontent.com/72659127/232368296-94db194b-0abe-45d6-9f32-e89996d2f142.png" width="500" />
 
 <img src="https://user-images.githubusercontent.com/72659127/232368350-31387e9b-8b3e-4172-a4e6-0bb2e61298b7.png" width="500" />
 
-<img src="https://user-images.githubusercontent.com/72659127/232368374-0e98e1e5-a128-446c-b7b6-e5e4a91ddd2d.png" width="500" />
+
 
